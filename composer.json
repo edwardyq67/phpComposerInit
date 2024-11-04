@@ -1,0 +1,15 @@
+{
+    "name": "vidamrr/notas",
+    "autoload": {
+        "psr-4": {
+            "Vidamrr\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edwardyq67",
+            "email": "edwardyq67@gmail.com"
+        }
+    ],
+    "require": {}
+}
